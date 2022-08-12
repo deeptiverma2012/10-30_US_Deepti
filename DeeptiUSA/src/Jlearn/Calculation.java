@@ -51,7 +51,7 @@ public class Calculation {
 		int E = Cal.Div(D, 2);
 		System.out.println("The Result of ((((10-2)+2)-2)*2)/2)is :"+E);
 		
-		System.out.println("End of the Program");
+		System.out.println("End of the Java Program");
 		
 		
 		
